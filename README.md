@@ -15,15 +15,15 @@
 # _Portfólio para adicionar atividades da área técnica._
 
 ## **_Programação de Aplicativo_**
-* 
-* 
+* https://github.com/pedrodiasdasilva/Portifolio-Tecnico/blob/main/Desenvolvimento%20de%20Aplicativo/AcessoCamera.zip
+* https://github.com/pedrodiasdasilva/Portifolio-Tecnico/blob/main/Desenvolvimento%20de%20Aplicativo/GeoEspacial2.zip
 *
 * ## **_Banco de Dados_**
-* 
-* 
+* https://github.com/pedrodiasdasilva/Portifolio-Tecnico/blob/main/Banco%20de%20Dados/Function_Aumenta10.sql
+* https://github.com/pedrodiasdasilva/Portifolio-Tecnico/blob/main/Banco%20de%20Dados/FunctionSoma.sql
 
 ## **_Modelagem de Sistemas_**
-* 
-* 
+* https://github.com/pedrodiasdasilva/Portifolio-Tecnico/blob/main/Modelagem%20de%20Sistemas/ArtistasBar.zip
+* https://github.com/pedrodiasdasilva/Portifolio-Tecnico/blob/main/Modelagem%20de%20Sistemas/CadastoPetShop.zip
 
 
